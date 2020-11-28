@@ -1,0 +1,3 @@
+include ':validationmanager'
+include ':app'
+rootProject.name = "ValidationManager"
